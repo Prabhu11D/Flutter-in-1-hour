@@ -1,16 +1,5 @@
-# foundation_in_1_hour
+# Flutter in 1 Hour for Beginners
 
-A new Flutter project.
+> first time try in Flutter, it is really cool and fast
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[tutorial](https://youtu.be/C-fKAzdTrLU)
